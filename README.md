@@ -9,7 +9,7 @@ Not your average dev. I live where consensus meets chaos — bending blockchains
 - 🔐 **Blockchain Security**: Breaking, hardening, and stress-testing smart contracts before the exploiters do.  
 - ⚔️ **Offense + Defense**: I think like a hacker, code like a builder, and secure like a paranoid auditor.  
 - 🚀 **On-Chain Chaos**: From testnet to mainnet, I launch code that laughs at latency and thrives under pressure.  
-- 🧩 **Code Alchemist**: Solidity, Rust, TypeScript, Go — I don’t just write code, I weaponize it.  
+- 🧩 **Code Alchemist**: Solidity, Rust, TypeScript, python — I don’t just write code, I weaponize it.  
 
 ---
 
