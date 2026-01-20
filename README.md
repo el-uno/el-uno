@@ -20,6 +20,4 @@ Not your average dev. I live where consensus meets chaos — bending blockchains
 - **Infra**: Nodes, bots, MEV strategies, and the dark arts of gas 
 ---
 
-# ⚡ Chaos, Secured.  
-
-👾 Follow the commits. 
+# ⚡ Chaos, Secured. 
