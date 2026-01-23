@@ -1,6 +1,6 @@
 # 🕶️ Welcome to My Playground  
 
-"Stare into the code. Break the code. Rebuild the code. Repeat."  
+"Stare into the code. Break the code."  
 
 Not your average dev. I live where consensus meets chaos — bending blockchains until they confess their secrets. Security researcher, on-chain builder, and chaos engineer with a knack for finding cracks in the armour (and sometimes creating a few of my own).  
 
