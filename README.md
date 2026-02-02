@@ -5,9 +5,9 @@ Not your average dev. I live where consensus meets chaos — bending blockchains
 
 ## ⚡ About Me  
 - 🔐 **Blockchain Security**
-- ⚔️ **Offence + Defence**: I think like a hacker, code like a builder, and secure like a paranoid auditor.  
-- 🚀 **On-Chain Chaos**: From testnet to mainnet, I launch code that laughs at latency and thrives under pressure.  
-- 🧩 **Code Alchemist**: Solidity, Rust, TypeScript, Python — I don’t just write code, I weaponise it.  
+- ⚔️ **Offence + Defence**
+- 🚀 **On-Chain Chaos**
+- 🧩 **Code Alchemist**
 
 ---
 
