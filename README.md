@@ -12,10 +12,10 @@ Not your average dev. I live where consensus meets chaos — bending blockchains
 ---
 
 ## 🛠️ Arsenal  
-- **Audits**: Finding logic bombs, race conditions, and hidden foot-guns.  
-- **Exploits**: Crafting PoCs that make bug bounty hunters jealous.  
-- **Protocols**: From DeFi degeneracy to zero-knowledge sorcery.  
-- **Infra**: Nodes, bots, MEV strategies, and the dark arts of gas 
+- **Audits**
+- **Exploits**
+- **Protocols**
+- **Infra**
 ---
 
 # ⚡ Chaos, Secured. 
