@@ -1,12 +1,10 @@
-# 🕶️ Welcome to My Playground  
 
-"Stare into the code. Break the code."  
 
 Not your average dev. I live where consensus meets chaos — bending blockchains until they confess their secrets. Security researcher, on-chain builder, and chaos engineer with a knack for finding cracks in the armour (and sometimes creating a few of my own).  
 
 
 ## ⚡ About Me  
-- 🔐 **Blockchain Security**: Breaking, hardening, and stress-testing smart contracts before the exploiters do.  
+- 🔐 **Blockchain Security**
 - ⚔️ **Offence + Defence**: I think like a hacker, code like a builder, and secure like a paranoid auditor.  
 - 🚀 **On-Chain Chaos**: From testnet to mainnet, I launch code that laughs at latency and thrives under pressure.  
 - 🧩 **Code Alchemist**: Solidity, Rust, TypeScript, Python — I don’t just write code, I weaponise it.  
