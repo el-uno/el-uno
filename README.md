@@ -10,19 +10,17 @@
 | |_| | (_| | (_) |   < (_| |   / ___ \ _| |  | |
  \___/ \__,_|\___/|_|\_\__,_|  /_/   \_(_)_|  |_|
 
-$ whoami
+
 
 Security researcher, on-chain builder, and chaos engineer.
-
 Building intelligence, reputation, and execution infrastructure for agentic trading and prediction markets.
 
-My journey spans Ethereum and its L2s, Solana programs, smart-wallet development, MEV defense,
+My journey spans Ethereum, it's L2s, Solana programs, smart-wallet development, MEV defense,
 cloud engineering, and smart-contract security.
 
 I turn onchain complexity into systems people and agents can understand, trust, and act on.
 My current projects include retinaOS on Robinhood Chain and Agents Circle on Solana.
 
-$ connect --with udoka
 ```
 
 <a href="https://github.com/el-uno">
