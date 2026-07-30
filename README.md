@@ -4,14 +4,6 @@
 🔴 🟡 🟢                                                    udoka.am.dev
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
- _   _     _       _               _      __  __
-| | | | __| | ___ | | ____ _      / \    |  \/  |
-| | | |/ _` |/ _ \| |/ / _` |    / _ \   | |\/| |
-| |_| | (_| | (_) |   < (_| |   / ___ \ _| |  | |
- \___/ \__,_|\___/|_|\_\__,_|  /_/   \_(_)_|  |_|
-
-
-
 Security researcher, on-chain builder, and chaos engineer.
 Building intelligence, reputation, and execution infrastructure for agentic trading and prediction markets.
 
