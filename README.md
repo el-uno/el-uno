@@ -8,7 +8,7 @@ Security researcher, on-chain builder, and chaos engineer
 Building intelligence, reputation, and execution infrastructure for agentic trading and prediction markets.
 
 My journey spans Ethereum, it's L2s, Solana programs, smart-wallet development, MEV defense,
-cloud engineering, and smart-contract security
+cloud engineering, and smart-contract security.
 
 My current projects include retinaOS on Robinhood Chain and Agents Circle on Solana.
 
