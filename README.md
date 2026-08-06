@@ -1,7 +1,7 @@
 <div align="left">
 
 ```text
-🔴 🟡 🟢                                           udoka.am.dev
+🔴 🟡 🟢                                          udoka.am.dev
 ────────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
 Security researcher, on-chain builder, and chaos engineer.
