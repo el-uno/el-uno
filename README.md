@@ -9,9 +9,7 @@ import blockchainEngineer;
 import devrelEngineer;
 import cloudEngineer;
 
-Building intelligence, reputation, and execution infrastructure for agentic trading and prediction markets.
-
-My journey spans Ethereum, it's L2s, Solana programs, smart-wallet development, MEV defense,
+My journey spans Ethereum, it's L2s, Solana programs, smart-wallet development, MEV defense verticals,
 cloud engineering, and onchain program smart-contract security.
 
 My current projects include retinaOS on Robinhood Chain, Agents Circle on Solana,
