@@ -4,7 +4,8 @@
 🔴 🟡 🟢                                          udoka.am.dev
 ───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
 
-on-chain builder, and chaos engineer.
+import Software engineer;
+import Blockchain Engineer;
 Building intelligence, reputation, and execution infrastructure for agentic trading and prediction markets.
 
 My journey spans Ethereum, it's L2s, Solana programs, smart-wallet development, MEV defense,
