@@ -9,7 +9,7 @@ import blockchainEngineer;
 import devrelEngineer;
 import cloudEngineer;
 
-My journey spans Ethereum, most of it's L2s, Solana, smart-wallet development, MEV defense verticals,
+My blockchain journey spans Ethereum, most of it's L2s, Solana, smart-wallet development, MEV defense verticals,
 cloud engineering, and onchain program smart-contract security.
 
 My current projects include retinaOS on Robinhood Chain, Agents Circle on Solana,
