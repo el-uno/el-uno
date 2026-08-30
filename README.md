@@ -17,7 +17,7 @@ and fiArc a multichain stablecoin powered EU-Africa payment settlement platform.
 
 ```
 
-<a href="https://github.com/el-uno">
+<a href="https://github.com/Udoka-AM">
   <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow el-uno on GitHub" />
 </a>
 &nbsp;
