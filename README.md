@@ -1,3 +1,28 @@
+### Udoka A.M.
+
+I build backend, blockchain, and cloud infrastructure, and the documentation
+that makes it usable. Currently working on agentic finance, stablecoin rails,
+and onchain markets.
+
+**[Arc](https://github.com/Udoka-AM/fintech_arc)** · cross-border stablecoin payments
+Double-entry ledger, settlement saga across five compensations, chaos suite that
+injects failure at every step and asserts the ledger still balances.
+[Docs](https://arc-doc.mintlify.app/)
+
+**Agents Circle** · custody-preserving vaults for autonomous trading agents
+Built twice against one specification — [Anchor/Rust on Solana](https://github.com/Udoka-AM/agent-circle-programs)
+and [Solidity on Polygon](https://github.com/Udoka-AM/agent-circle-evm) — so where the
+two disagree, one is provably wrong. [Docs](https://agent-circle.mintlify.app/)
+
+**[RetinaOS](https://github.com/Udoka-AM/retinaOS)** · market intelligence for Robinhood Chain
+Token discovery, wallet reputation, and an AI analyst grounded only in data it can
+verify onchain. Live. [Docs](https://retinaos.mintlify.app/)
+
+Previously developer relations at MagicBlock, Superteam Nigeria, and Arweave.
+
+[x.com/Udoka_AM](https://x.com/Udoka_AM) · [linkedin.com/in/udokaam](https://linkedin.com/in/udokaam)
+
+
 **[Arc](https://github.com/Udoka-AM/fintech_arc)** · cross-border stablecoin payments
 Double-entry ledger, settlement saga across five compensations, chaos suite that
 injects failure at every step and asserts the ledger still balances.
