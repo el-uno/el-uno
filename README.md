@@ -1,32 +1,22 @@
-<div align="left">
+**[Arc](https://github.com/Udoka-AM/fintech_arc)** · cross-border stablecoin payments
+Double-entry ledger, settlement saga across five compensations, chaos suite that
+injects failure at every step and asserts the ledger still balances.
+[Docs](https://arc-doc.mintlify.app/)
 
-```text
-🔴 🟡 🟢                                          udoka.am.dev
-───────────────────────────────────────────────────────────────────────────────────────────────────────────────────────
+**Agents Circle** · custody-preserving vaults for autonomous trading agents
+Built twice against one specification — [Anchor/Rust on Solana](https://github.com/Udoka-AM/agent-circle-programs)
+and [Solidity on Polygon](https://github.com/Udoka-AM/agent-circle-evm) — so where the
+two disagree, one is provably wrong. [Docs](https://agent-circle.mintlify.app/)
 
-import softwareEngineer;
-import blockchainEngineer;
-import devrelEngineer;
-import cloudEngineer;
+**[RetinaOS](https://github.com/Udoka-AM/retinaOS)** · market intelligence for Robinhood Chain
+Token discovery, wallet reputation, and an AI analyst grounded only in data it can
+verify onchain. Live. [Docs](https://retinaos.mintlify.app/)
 
-My blockchain journey spans Ethereum, most of it's L2s, Solana, smart-wallet development, MEV defense verticals,
-cloud engineering, and onchain program smart-contract security.
+**[bagsMarkets](https://github.com/Udoka-AM/bagsMarket)** · Solana trading operations workspace
+Market intelligence, developer signals, and agent workflows on one surface. The browser
+touches Supabase for auth only; every read and write goes through the API, and the
+row-level-security policies are tested against a real Postgres in CI.
 
-My current projects include retinaOS on Robinhood Chain, Agents Circle on Solana,
-and fiArc a multichain stablecoin powered EU-Africa payment settlement platform.
-
-```
-
-<a href="https://github.com/Udoka-AM">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow el-uno on GitHub" />
-</a>
-&nbsp;
-<a href="https://x.com/Udoka_AM">
-  <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow Udoka_AM on X" />
-</a>
-&nbsp;
-<a href="https://www.linkedin.com/in/udokaam/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Udoka A.M. on LinkedIn" />
-</a>
-
-</div>
+**[Orynth](https://github.com/Udoka-AM/orynthLabs)** · signal ingestion and opportunity scoring
+Won't call anything an opportunity without an observed gap and demand across two
+independent signal families.
